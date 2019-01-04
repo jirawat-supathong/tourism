@@ -1,8 +1,8 @@
 <html>
 	<head></head>
-	Project Proposal
+	<TITLE>Project Proposal</TITLE>
 	<body>
-		<h1>Project Proposal v2</h1>
+		<h1>Project Proposal v1</h1>
 		<b>ชื่อโครงการ</b>
 		<p>	-  แอพพลิเคชั่นเปรียบเทียบราคาโรงแรมในจังหวัดเชียงใหม่<p>
 		<p>	-  Application hotal compare price</p>
@@ -27,5 +27,5 @@
 		<p>- สามารถรองรับต่อการเปลี่ยนแปลงของลูกค้า<p>
 		<p>- ง่ายต่อการตรวจสอบหาข้อผิดพลาดของ App<p>
 		
-	
+	</body>
 </html>
